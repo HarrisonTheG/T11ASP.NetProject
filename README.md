@@ -1,4 +1,5 @@
-# Shopping Cart project built using .Net Core MVC (with Entity Framework Core) as web application server, MS SQL as backend database server and HTML/CSS/Javascript(AJAX) as frontend web page design.
+# Shopping Cart project
+Shopping Cart project built using .Net Core MVC (with Entity Framework Core) as web application server, MS SQL as backend database server and HTML/CSS/Javascript(AJAX) as frontend web page design.
 
 Summary of Features:
 1.  Login and register page with validation
